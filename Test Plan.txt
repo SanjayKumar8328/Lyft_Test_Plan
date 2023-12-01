@@ -1,0 +1,24 @@
+Scope: I would collect all the requirements from the Project management team about the feature, In this case the page and details with functionality on bussiness, drive and rentals. details of proceeding with each mode of transport
+
+Schedule: I would require 2 weeks of testing time, first week for complete manual testing and reporting the bugs retesting them. Once the functionality is clear then I will start automating the test cases indentified for web, api and database. On the end of sencond week I would like to present the test report s of UI, API and database and release the feature for production.
+
+Resource Allocation: While allocating any resource, I will make sure the person is more knowledgable in that area so that there won't be any miss in the validating. I would require 1-2 people to complete the feature release in the mentioned time. 
+
+Environment: once the development is done as the per the requirement and expect the code to be pushed to QC environment then the testing phase begins and once all the test cases identified are throughly tested. I will give the QC sign off and then push the code changes to the production
+
+Tools: 
+MANUAL TESTING UI:
+I will you latest browsers like chrome, safari, firefox
+
+MANUAL TESTING API:
+Post man :  I will call the api developed which are defined in the swagger and verify the its schema, response and actual status codes by autheticating the api(tokens, username/pass) and console logs if any.
+
+DATABASE : I will triger the queries to the database whichever is used and validate the query results with the expected.
+
+AUTOMATION:
+For both UI and API testing I would use BDD framework with python. Specifically for UI(extra), I use selinium and xpaths for loacting the web elements.
+Please check my work on the github for further details.
+
+Defect Management: For the entire duration of testing I would use Jira, I collect all the requirements and inform others if there is any missalignments in the requirement. I will create tickets for each bug identified.
+
+Exit Parameters: After completing the manual execution of the test cases identified and giving the clearance report. I will also include the execution of the automation test repost. If there are no major blocker issues, I would suggest a feature release. If there are any known issues (mior issues) and still release neeeds to be done, I will raise the bugs in the jira then release the feature to keep track of the bugs for future reference.  
