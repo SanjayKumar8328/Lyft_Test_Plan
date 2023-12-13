@@ -9,3 +9,5 @@ pip intall -r requirements.txt
 
 **For running the test case navigate to UI or API repositories and excute the below cmd**
 behave --no-capture <feature file name>.feature
+
+Hello, Hope to seen you soon.
